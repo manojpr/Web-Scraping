@@ -1,0 +1,8 @@
+beautifulsoup4
+bs4
+google-generativeai
+ipython
+Pillow
+pandas
+selenium
+streamlit
